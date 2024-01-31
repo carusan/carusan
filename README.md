@@ -1,3 +1,3 @@
-- I'm currently studying my B.Sc. in Tampere University.
+- I'm currently studying my Physics and Information Technology B.Sc. in Tampere University.
 - I currently don't have any ongoing personal GitHub projects due to my busy schedule!
 - If you find any interest in my projects feel free to ask more about them! :)
